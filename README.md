@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Solace - an aspiring web developer 👋
+
+<br />
+
+## My Favorite Technologies
+
+- <img align="center" alt="Next" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" /> &nbsp;[ExpressJS](https://expressjs.com/)
+
+- <img align="center" alt="Next" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" /> &nbsp;[ReactJS](https://reactjs.org/)
+
+- <img align="center" alt="Next" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/next-dot-js.svg" />&nbsp; [NextJS](https://nextjs.org/)
 
 <!--
 **SolaceMotion/SolaceMotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
