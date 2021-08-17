@@ -1,8 +1,10 @@
-### Hi there, I'm Solace - an aspiring web developer 👋
+### **Hey, I'm an aspiring developer** 👋
 
 <br />
 
-## My Favorite Technologies
+## Favorite Technologies
+
+---
 
 - <img align="center" alt="TypeScript" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />&nbsp; [TypeScript](https://www.typescriptlang.org/)
 
