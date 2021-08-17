@@ -4,7 +4,6 @@
 
 ## Favorite Technologies
 
----
 
 - <img align="center" alt="TypeScript" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />&nbsp; [TypeScript](https://www.typescriptlang.org/)
 
