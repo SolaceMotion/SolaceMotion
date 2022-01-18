@@ -4,8 +4,6 @@
 
 ## Favorite Technologies
 
-- <img align="center" alt="C++" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />&nbsp; C++ 
-
 - <img align="center" alt="TypeScript" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />&nbsp; [TypeScript](https://www.typescriptlang.org/)
 
 - <img align="center" alt="Express" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" /> &nbsp;[ExpressJS](https://expressjs.com/)
